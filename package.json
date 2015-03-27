@@ -1,0 +1,35 @@
+{
+  "name": "Exty",
+  "version": "0.0.1",
+  "bin": {
+    "exty": "./bin/cli.js"
+  },
+  "description": "Build cross-platform browser extensions",
+  "main": "index.js",
+  "scripts": {
+    "start": "./bin/cli.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/listepo/exty.git"
+  },
+  "keywords": [
+    "browser",
+    "extensions",
+    "cross-platform"
+  ],
+  "author": "Ivan Tugay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/listepo/exty/issues"
+  },
+  "homepage": "https://github.com/listepo/exty",
+  "dependencies": {
+    "commander": "^2.7.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jshint": "^1.9.4"
+  }
+}
