@@ -2,6 +2,8 @@
 Exty - cross-browser extension builder
 ====================================
 
+[![Join the chat at https://gitter.im/extyjs/exty](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/extyjs/exty?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Build cross-platform browser extensions
 
 Project Status: Develop(Do not use on production!!)
