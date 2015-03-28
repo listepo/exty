@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/extyjs/exty.png?label=ready&title=Ready)](https://waffle.io/extyjs/exty)
 Exty - cross-browser extension builder
 ====================================
 
