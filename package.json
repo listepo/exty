@@ -30,6 +30,7 @@
   },
   "devDependencies": {
     "gulp": "^3.8.11",
+    "gulp-jsbeautify": "^0.1.1",
     "gulp-jshint": "^1.9.4",
     "gulp-mocha": "^2.0.0"
   }
