@@ -1,9 +1,9 @@
-[![Build Status](https://travis-ci.org/extyjs/exty.svg?branch=master)](https://travis-ci.org/extyjs/exty)
-[![Stories in Ready](https://badge.waffle.io/extyjs/exty.png?label=ready&title=Ready)](https://waffle.io/extyjs/exty)
+[![Build Status](https://travis-ci.org/listepo/exty.svg?branch=master)](https://travis-ci.org/listepo/exty)
+[![Stories in Ready](https://badge.waffle.io/listepo/exty.png?label=ready&title=Ready)](https://waffle.io/listepo/exty)
 Exty - cross-browser extension builder
 ====================================
 
-[![Join the chat at https://gitter.im/extyjs/exty](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/extyjs/exty?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/listepo/exty](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/listepo/exty?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Build cross-platform browser extensions
 

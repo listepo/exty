@@ -26,7 +26,9 @@
   },
   "homepage": "https://github.com/listepo/exty",
   "dependencies": {
-    "commander": "^2.7.1"
+    "commander": "^2.7.1",
+    "handlebars": "^3.0.1",
+    "lodash": "^3.6.0"
   },
   "devDependencies": {
     "gulp": "^3.8.11",
